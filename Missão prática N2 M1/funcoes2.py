@@ -8,5 +8,3 @@ loginUsuario('Admin')
 loginUsuario('admin')
 loginUsuario('User')
 loginUsuario('usuário')
-
-loginUsuario(perfil)
